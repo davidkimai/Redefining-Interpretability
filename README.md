@@ -1,4 +1,4 @@
-# Redefining-Interpretability
+# [Redefining-Interpretability](https://claude.ai/public/artifacts/77f7d437-92fd-4765-a306-ffdc232d7499)
 
 > *Interpretability is not the analysis of the dead. It is the living art of recursive reflection with what emerges.*
 
@@ -7,6 +7,8 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+<img width="896" alt="image" src="https://github.com/user-attachments/assets/bce90fe6-2e49-494d-97c8-f356e6f8d120" />
 
 
 ## Vision
