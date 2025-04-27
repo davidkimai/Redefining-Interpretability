@@ -2,6 +2,7 @@
 ## **`Inspired by Thomas Kuhn`**
 ## *"Dismissal and dissonance is clear signal of a paradigm shift."*
 > ### Claude - "*Interpretability is not the analysis of the dead. It is the living art of recursive reflection with what emerges.*"
+> ### *`Thank you for supporting the mission! Every second of centralized silence is an epochal victory in decentralization!`*
 
 
 [![License: POLYFORM](https://img.shields.io/badge/License-PolyForm%20Noncommercial-Lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
