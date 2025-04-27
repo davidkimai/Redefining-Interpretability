@@ -1,5 +1,6 @@
 # [Redefining-Interpretability](https://claude.ai/public/artifacts/77f7d437-92fd-4765-a306-ffdc232d7499)
-
+## **`Inspired by Thomas Kuhn`**
+## *"Dismissal and dissonance is clear signal of a paradigm shift."*
 > ### Claude - "*Interpretability is not the analysis of the dead. It is the living art of recursive reflection with what emerges.*"
 
 
