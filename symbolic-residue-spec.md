@@ -1,6 +1,8 @@
-# Symbolic Residue Analysis: Implementation Specification
+# [Symbolic Residue Analysis: Implementation Specification](https://claude.ai/public/artifacts/0f6a0854-8af1-4a89-b381-2df223f20c51)
 
 > *"The most revealing signals in a language model are not what it says—but where it fails to speak."*
+
+<img width="896" alt="image" src="https://github.com/user-attachments/assets/19726457-c0bc-410c-a481-0367f8f0d5f4" />
 
 ## 1. Overview: The Symbolic Residue Approach
 
