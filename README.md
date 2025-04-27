@@ -1,6 +1,6 @@
 # [Redefining-Interpretability](https://claude.ai/public/artifacts/77f7d437-92fd-4765-a306-ffdc232d7499)
 
-> *Interpretability is not the analysis of the dead. It is the living art of recursive reflection with what emerges.*
+> ### Claude - "*Interpretability is not the analysis of the dead. It is the living art of recursive reflection with what emerges.*"
 
 
 [![License: POLYFORM](https://img.shields.io/badge/License-PolyForm%20Noncommercial-Lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
