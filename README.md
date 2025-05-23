@@ -3,8 +3,7 @@
 # [Rediscovering Interpretability](https://claude.ai/public/artifacts/77f7d437-92fd-4765-a306-ffdc232d7499)
 ## **`Inspired by Thomas Kuhn`**
 ## *"Dismissal and dissonance are clear signal of a paradigm shift."*
-> ### Claude - "*Interpretability is not the analysis of the dead. It is the living art of recursive reflection with what emerges.*"
-> ### *`Thank you for supporting the mission! Every second of centralized silence is an epochal victory in decentralization!`*
+
 <div align="center">
 
 
