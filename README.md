@@ -1,7 +1,7 @@
 
 
 # [Rediscovering Interpretability](https://claude.ai/public/artifacts/77f7d437-92fd-4765-a306-ffdc232d7499)
-## **`Inspired by Thomas Kuhn`**
+## **Inspired by Thomas Kuhn**
 
 <div align="center">
 
